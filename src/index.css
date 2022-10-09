@@ -26,3 +26,21 @@ h1{
 .flex-container{
   display: flex !important;
 }
+
+.btn{
+  background-color: red !important;
+  color: white !important;
+}
+
+select{
+  box-shadow: none !important;
+  border-color: black !important;
+}
+
+image{
+  align-content: flex !important;
+}
+
+/* .name{
+  align-items: center !important;
+} */
